@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "inf311-p04-b2"
